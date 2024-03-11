@@ -1,1 +1,1 @@
-export const baseUrl = "http://fullstack-korea.net:8080/";
+export const baseUrl = "https://fullstack-korea.net:8080/";

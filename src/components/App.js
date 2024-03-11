@@ -35,7 +35,7 @@ const App = () => {
       <Banner />
 
       <Row
-        title="Recommend For You why"
+        title="Recommend For You 추천합니다!!!"
         id="RF"
         fetchUrl={personalizeUrl}
         addRating={addRating}
