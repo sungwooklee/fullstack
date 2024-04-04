@@ -1,0 +1,10 @@
+{
+    "datadog.ust.service.setup.linkedNames": [
+        "curl",
+        "datadog-demo",
+        "datadog-service",
+        "fullstack-recommender",
+        "mysqli",
+        "sungwook-jenkins"
+    ]
+}
