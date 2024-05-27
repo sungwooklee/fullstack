@@ -6,5 +6,6 @@
         "fullstack-recommender",
         "mysqli",
         "sungwook-jenkins"
-    ]
+    ],
+    "datadog.ust.environment.setup.focusedName": "dev"
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ManuallyLinkedServices">
+    <option name="services">
+      <set>
+        <option value="datadog-demo" />
+        <option value="datadog-service" />
+        <option value="fullstack-recommender" />
+        <option value="gqflex" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
